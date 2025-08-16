@@ -1,0 +1,53 @@
+#title in header
+title: "Shreyasha Paudel"
+
+#main info
+#owner
+owner: "I am Shreyasha"
+#email: test@test.test
+info: "A student at UToronto"
+#description
+desc: "This is my personal site."
+
+#menu
+menu:
+  Publications: /publications
+# Resume: /resume
+#  Contact: /contact
+
+#index/main page max show posts (in number)
+max_post: 4
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FA0CE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+placename: Earth
+placelink: https://en.wikipedia.org/wiki/Earth
+linkedin: https://www.linkedin.com/in/shreyashapaudel
+twitter: https://twitter.com/shr_pdl
+
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# Picture enlargement
+picjs: /js/pic.min.js
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
