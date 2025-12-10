@@ -96,7 +96,7 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=AbniDkgAAAAJ&view_op=list_works&sortby=pubdate
         - name: LinkedIn
-          url: www.linkedin.com/in/shreyashapaudel
+          url: https://www.linkedin.com/in/shreyashapaudel
         - name: Email
           url: mailto:shreyasha.paudel@mail.utoronto.ca
         # - name: GitHub
