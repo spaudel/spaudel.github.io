@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "The Finer Points of Sausage Dogs" 
 date: 2004-12-28
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
@@ -59,3 +59,4 @@ url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs
 
 + [Presentation slides](presentation2.pdf)
 + [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
+ -->

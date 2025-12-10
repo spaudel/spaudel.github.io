@@ -1,17 +1,17 @@
----
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
+<!-- ---
+title: "Reimagining Open Data during Disaster Response: Applying a Feminist Lens to Three Open Data Projects in Post-Earthquake Nepal" 
+date: 2023
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+author: ["Shreyasha Paudel","Robert Soden"]
+# description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
+# summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Reimagining Open Data during Disaster Response: Applying a Feminist Lens to Three Open Data Projects in Post-Earthquake Nepal"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Journal of Oleic Science"
 
 ---
 
@@ -19,9 +19,8 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](Reimagining_Open_Data.pdf) 
+
 
 ---
 
@@ -58,4 +57,5 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 ##### Related material
 
 + [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
+
+ -->

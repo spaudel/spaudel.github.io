@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Your Inner Hedgehog" 
 date: 2021-04-06
 tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
@@ -50,3 +50,4 @@ pages = {1299--1302}}
 ##### Related material
 
 + [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
+ -->
