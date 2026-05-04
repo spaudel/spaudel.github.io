@@ -7,18 +7,18 @@ date: 2025-11-25 10:56:51
 
 
 **Shreyasha Paudel**, Sabine Loos, and Robert Soden. 2024. [Hype and Historical Continuities: Situating the Rise of AI in Climate and Disaster Risk Modeling.](https://dl.acm.org/doi/10.1145/3706598.3713985) In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI '24)**.
-[Download PDF 📥](Hype_versus_Historical_Continuity.pdf) 
+[Download PDF 📥](https://utoronto-my.sharepoint.com/:b:/r/personal/shreyasha_paudel_mail_utoronto_ca/Documents/Publications/Hype_versus_Historical_Continuity.pdf?csf=1&web=1&e=GZ1cKT) 
 
 
 **Shreyasha Paudel**, Wendy Norris, and Robert Soden. 2024. [Aftermath: Infrastructure, Resources, and Organizational Adaptation in the Wake of Disaster.](https://doi.org/10.1145/3637294) In Proceedings of ACM Human Computer Interaction 8, CSCW1, Article 17 (April 2024). **(CSCW '24)**  
-[Download PDF 📥](CSCW_Aftermath__Infrastructure__Resources__and_Organizational_Adaptation_in_the_Wake_of_Disaster_Final.pdf)
+[Download PDF 📥](https://utoronto-my.sharepoint.com/my?viewid=7044e6c9%2D6800%2D4e9a%2Db620%2D22534fdbbb84&id=%2Fpersonal%2Fshreyasha%5Fpaudel%5Fmail%5Futoronto%5Fca%2FDocuments%2FPublications%2FCSCW%5FAftermath%5F%5FInfrastructure%5F%5FResources%5F%5Fand%5FOrganizational%5FAdaptation%5Fin%5Fthe%5FWake%5Fof%5FDisaster%5FFinal%2Epdf&parent=%2Fpersonal%2Fshreyasha%5Fpaudel%5Fmail%5Futoronto%5Fca%2FDocuments%2FPublications)
 
 **Shreyasha Paudel**, Sabine Loos, and Robert Soden. 2023. [Towards the Development of an Anti-Colonial Critique of Climate and Disaster Risk Models.](https://doi.org/10.21428/bf6fb269.6b027e1a) In Ninth Computing within Limits 2023. **(LIMITS 23)**  
-[Download PDF 📥](LIMITS23_Towards_the_Development_of_an_Anti-Colonial_Critique_of_Climate_and_Disaster_Risk_Models_Final.pdf)
+[Download PDF 📥](https://utoronto-my.sharepoint.com/:b:/r/personal/shreyasha_paudel_mail_utoronto_ca/Documents/Publications/LIMITS23_Towards_the_Development_of_an_Anti-Colonial_Critique_of_Climate_and_Disaster_Risk_Models_Final.pdf?csf=1&web=1&e=KhnxfS)
 
 
 **Shreyasha Paudel** and Robert Soden. 2023. [Reimagining Open Data during Disaster Response: Applying a Feminist Lens to Three Open Data Projects in Post-Earthquake Nepal.](https://doi.org/10.1145/3579519) In Proceedings of ACM Human Computer Interaction 7, CSCW1, Article 86 (April 2023). **(CSCW '23)** 
-[Download PDF 📥](Reimagining_Open_Data.pdf) 
+[Download PDF 📥](https://utoronto-my.sharepoint.com/:b:/r/personal/shreyasha_paudel_mail_utoronto_ca/Documents/Publications/Reimagining_Open_Data.pdf?csf=1&web=1&e=CX85ic) 
 
 
 ## Workshops and Conference Presentations
