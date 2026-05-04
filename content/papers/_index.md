@@ -10,14 +10,14 @@ date: 2025-11-25 10:56:51
 [Download PDF 📥](Hype_versus_Historical_Continuity.pdf) 
 
 
-**Shreyasha Paudel**, Wendy Norris, and Robert Soden. 2024. [Aftermath: Infrastructure, Resources, and Organizational Adaptation in the Wake of Disaster.] (https://doi.org/10.1145/3637294) In Proceedings of ACM Human Computer Interaction 8, CSCW1, Article 17 (April 2024). **(CSCW '24)**  
+**Shreyasha Paudel**, Wendy Norris, and Robert Soden. 2024. [Aftermath: Infrastructure, Resources, and Organizational Adaptation in the Wake of Disaster.](https://doi.org/10.1145/3637294) In Proceedings of ACM Human Computer Interaction 8, CSCW1, Article 17 (April 2024). **(CSCW '24)**  
 [Download PDF 📥](CSCW_Aftermath__Infrastructure__Resources__and_Organizational_Adaptation_in_the_Wake_of_Disaster_Final.pdf)
 
-**Shreyasha Paudel**, Sabine Loos, and Robert Soden. 2023. [Towards the Development of an Anti-Colonial Critique of Climate and Disaster Risk Models.] (https://doi.org/10.21428/bf6fb269.6b027e1a) In Ninth Computing within Limits 2023. **(LIMITS 23)**  
+**Shreyasha Paudel**, Sabine Loos, and Robert Soden. 2023. [Towards the Development of an Anti-Colonial Critique of Climate and Disaster Risk Models.](https://doi.org/10.21428/bf6fb269.6b027e1a) In Ninth Computing within Limits 2023. **(LIMITS 23)**  
 [Download PDF 📥](LIMITS23_Towards_the_Development_of_an_Anti-Colonial_Critique_of_Climate_and_Disaster_Risk_Models_Final.pdf)
 
 
-**Shreyasha Paudel** and Robert Soden. 2023. [Reimagining Open Data during Disaster Response: Applying a Feminist Lens to Three Open Data Projects in Post-Earthquake Nepal.] (https://doi.org/10.1145/3579519) In Proceedings of ACM Human Computer Interaction 7, CSCW1, Article 86 (April 2023). **(CSCW '23)** 
+**Shreyasha Paudel** and Robert Soden. 2023. [Reimagining Open Data during Disaster Response: Applying a Feminist Lens to Three Open Data Projects in Post-Earthquake Nepal.](https://doi.org/10.1145/3579519) In Proceedings of ACM Human Computer Interaction 7, CSCW1, Article 86 (April 2023). **(CSCW '23)** 
 [Download PDF 📥](Reimagining_Open_Data.pdf) 
 
 
